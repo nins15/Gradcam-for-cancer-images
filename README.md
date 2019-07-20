@@ -4,7 +4,7 @@
 
 # Problem Statement
 
-Localisation of skin cancer on images using Gradcam.
+Localisation of skin cancer on categorical dataset of skin images using Gradcam.
 
 
 
